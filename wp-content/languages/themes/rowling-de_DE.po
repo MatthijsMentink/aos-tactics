@@ -1,0 +1,300 @@
+# Translation of Rowling in German
+# This file is distributed under the same license as the Rowling package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-08 06:48:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Rowling\n"
+
+#. Theme Name of the plugin/theme
+msgid "Rowling"
+msgstr "Rowling"
+
+#. Description of the plugin/theme
+msgid "Rowling is a clean, simple and elegant magazine theme for WordPress. It features a responsive design, great typography, two menu locations, social menu support, custom accent color support, custom logo support, gallery post format support, editor style support, a Flickr widget and recent posts and recent comments widgets with thumbnails. Included translations: Swedish/svenska."
+msgstr "Rowling ist ein klares, schlichtes und elegantes Magazin-Theme für WordPress. Es bietet folgende Features: responsiver Aufbau, großartige Typographie, zwei Menü-Positionen, Unterstützung für ein Social-Media-Menü, Unterstützung für individuelle Akzent-Farben und individuelles Logo, Unterstützung des Beitragsformats &#8222;Galerie&#8220;, Editor-Stylesheet, Widgets für Flickr, neueste Beiträge und neueste Kommentare mit Vorschaubildern. Enthaltene Übersetzungen: Schwedisch/Svenska."
+
+#: footer.php:11
+msgid "Theme by %s"
+msgstr "Theme von %s"
+
+#: widgets/recent-posts.php:121
+msgid "Number of posts to display"
+msgstr "Anzahl der anzuzeigenden Beiträge"
+
+#: widgets/recent-posts.php:6
+msgid "Displays recent blog entries."
+msgstr "Neueste Blogbeiträge anzeigen"
+
+#: widgets/recent-comments.php:114
+msgid "Number of comments to display"
+msgstr "Anzahl der Kommentare, die angezeigt werden sollen"
+
+#: widgets/recent-comments.php:116 widgets/recent-posts.php:123
+msgid "Defaults to 5 if empty"
+msgstr "Angezeigt werden 5, wenn das Feld leer gelassen wird."
+
+#: widgets/recent-comments.php:54
+msgid "posted"
+msgstr "Veröffentlicht"
+
+#: widgets/recent-comments.php:54
+msgid "Comment to"
+msgstr "Kommentar zu"
+
+#: widgets/recent-comments.php:6
+msgid "Displays recent comments with user avatars."
+msgstr "Neueste Kommentare mit User-Avataren anzeigen."
+
+#: widgets/recent-comments.php:7
+msgid "Recent Comments"
+msgstr "Letzte Kommentare"
+
+#: widgets/flickr-widget.php:79
+msgid "Number of images to display"
+msgstr "Anzahl der Bilder, die angezeigt werden sollen"
+
+#: widgets/flickr-widget.php:73
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr "Deine Flickr-ID (<a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a> benutzen)"
+
+#: widgets/flickr-widget.php:67 widgets/recent-comments.php:109
+#: widgets/recent-posts.php:116
+msgid "Title"
+msgstr "Titel"
+
+#: widgets/flickr-widget.php:7
+msgid "Flickr Widget"
+msgstr "Flickr-Widget"
+
+#: widgets/flickr-widget.php:6
+msgid "Displays your latest Flickr photos."
+msgstr "Zeigt deine neuesten Flickr-Fotos an."
+
+#: single.php:80
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: single.php:29 single.php:31
+msgid "Comments"
+msgstr "Kommentare"
+
+#: single.php:24
+msgid "on"
+msgstr "am"
+
+#: single.php:24
+msgid "Posted"
+msgstr "Veröffentlicht"
+
+#: single.php:24
+msgid "by"
+msgstr "von"
+
+#: sidebar.php:27 widgets/recent-posts.php:7
+msgid "Recent Posts"
+msgstr "Letzte Beiträge"
+
+#: searchform.php:2
+msgid "Search form"
+msgstr "Suchformular"
+
+#: search.php:11 search.php:42
+msgid "Search results:"
+msgstr "Suchergebnis:"
+
+#: page.php:57 single.php:134
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "Für diesen Suchbegriff gibt es keine Beiträge. Bitte probiere es noch einmal."
+
+#: search.php:55
+msgid "No results. Try again, would you kindly?"
+msgstr "Kein Ergebnis. Würdest du es bitte nochmal versuchen?"
+
+#: functions.php:553
+msgid "Accent Color"
+msgstr "Akzentfarbe"
+
+#: functions.php:527
+msgid "Upload a logo to replace the default site title in the header."
+msgstr "Logo hochladen (ersetzt den Seitentitel im Header)."
+
+#: functions.php:525 functions.php:561
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:517
+msgid "Options for Rowling"
+msgstr "Einstellungen für Rowling"
+
+#: functions.php:520
+msgid "Allows you to customize theme settings for Rowling."
+msgstr "Ermöglicht dir, eigene Einstellungen für Rowling vorzunehmen."
+
+#: functions.php:483
+msgid "Reply"
+msgstr "Antworten"
+
+#: functions.php:448
+msgid "Comment by post author"
+msgstr "Kommentar des Beitrags-Autors"
+
+#: functions.php:476
+msgid "Awaiting moderation"
+msgstr "Moderation anstehend"
+
+#: functions.php:432 functions.php:470 page.php:43 single.php:24
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: functions.php:432
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:95
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Widgets in diesem Bereich werden in der Seitenleiste angezeigt."
+
+#: functions.php:133
+msgid "Read Next"
+msgstr "Weitere Artikel"
+
+#: functions.php:309
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: functions.php:93
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:40
+msgid "Social Menu"
+msgstr "Social-Media-Menü"
+
+#: functions.php:39
+msgid "Secondary Menu"
+msgstr "Sekundär-Menü"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "Primäres Menü"
+
+#: content-gallery.php:8 content.php:8
+msgid "Sticky post:"
+msgstr "Oben gehaltener Beitrag:"
+
+#: footer.php:5
+msgid "To the top"
+msgstr "Nach oben"
+
+#: comments.php:131
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:125
+msgid "Email"
+msgstr "E-Mail-Adresse"
+
+#: comments.php:119
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:101
+msgid "Leave a Reply to"
+msgstr "Schreibe eine Antwort auf"
+
+#: comments.php:98
+msgid "Leave a Reply"
+msgstr "Schreibe eine Antwort"
+
+#: comments.php:91
+msgid "Comments are Closed"
+msgstr "Kommentare sind geschlossen"
+
+#: comments.php:71 functions.php:294
+msgid "Next"
+msgstr "Nächster"
+
+#: comments.php:65 functions.php:249
+msgid "Previous"
+msgstr "Vorheriger"
+
+#: comments.php:47
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] "Pingback"
+msgstr[1] "Pingbacks"
+
+#: comments.php:24
+msgid "Add Comment"
+msgstr "Kommentar hinzufügen"
+
+#: comments.php:16 comments.php:111 single.php:30
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "Kommentar"
+msgstr[1] "Kommentare"
+
+#: archive.php:31 index.php:17 search.php:17
+msgid "Page"
+msgstr "Seite"
+
+#: archive.php:23
+msgid "Archive"
+msgstr "Archiv"
+
+#: archive.php:21
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: archive.php:18
+msgid "Tag: %s"
+msgstr "Schlagwort: %s"
+
+#: archive.php:16
+msgid "Category: %s"
+msgstr "Kategorie: %s"
+
+#: archive.php:14
+msgid "Year: %s"
+msgstr "Jahr: %s"
+
+#: archive.php:12
+msgid "Month: %s"
+msgstr "Monat: %s"
+
+#: archive.php:10
+msgid "Date: %s"
+msgstr "Datum: %s"
+
+#: 404.php:13
+msgid "These are Not the Results You're Looking For"
+msgstr "Dies ist nicht das Ergebnis, nach dem du gesucht hast"
+
+#: 404.php:23
+msgid "You can also return to the %s home page %s and continue your search from there."
+msgstr "Du kannst auch zur %s Startseite %s zurückkehren und deine Suche dort fortsetzen. "
+
+#: 404.php:21
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. Either way, you're welcome to search for what you are looking for with the form below."
+msgstr "Scheinbar hast du eine Seite aufgerufen, die nicht existiert. Sie könnte gelöscht oder verschoben worden sein oder hat nie existiert. Wie auch immer – du kannst gerne mit dem nachstehenden Formular danach suchen."
+
+#: 404.php:9
+msgid "Error 404"
+msgstr "Fehler 404"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/rowling-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/rowling-wordpress-theme/"
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"

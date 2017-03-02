@@ -1,0 +1,300 @@
+# Translation of Rowling in Dutch
+# This file is distributed under the same license as the Rowling package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-06-20 13:31:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Rowling\n"
+
+#. Theme Name of the plugin/theme
+msgid "Rowling"
+msgstr "Rowling"
+
+#. Description of the plugin/theme
+msgid "Rowling is a clean, simple and elegant magazine theme for WordPress. It features a responsive design, great typography, two menu locations, social menu support, custom accent color support, custom logo support, gallery post format support, editor style support, a Flickr widget and recent posts and recent comments widgets with thumbnails. Included translations: Swedish/svenska."
+msgstr "Rowling is een strak en elegant magazine thema voor WordPress. Het thema biedt responsive design, prachtige typografie, twee menu-locaties, ondersteuning voor links naar sociale media, mogelijkheid voor eigen kleuraccent en logo, ondersteuning voor gallery posts, een Flickr widget, recente berichten en recente reacties met thumbnails."
+
+#: footer.php:11
+msgid "Theme by %s"
+msgstr "Thema door %s"
+
+#: widgets/recent-comments.php:114
+msgid "Number of comments to display"
+msgstr "Aantal weer te geven reacties"
+
+#: widgets/recent-comments.php:116 widgets/recent-posts.php:123
+msgid "Defaults to 5 if empty"
+msgstr "Standaard is 5 indien leeg"
+
+#: widgets/recent-posts.php:6
+msgid "Displays recent blog entries."
+msgstr "Toon recente blogberichten."
+
+#: widgets/recent-posts.php:121
+msgid "Number of posts to display"
+msgstr "Aantal weer te geven berichten"
+
+#: widgets/recent-comments.php:54
+msgid "Comment to"
+msgstr "Reageer op"
+
+#: widgets/recent-comments.php:54
+msgid "posted"
+msgstr "Gepubliceerd"
+
+#: widgets/recent-comments.php:6
+msgid "Displays recent comments with user avatars."
+msgstr "Toont recente reacties met avatars."
+
+#: widgets/flickr-widget.php:73
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr "Flickr ID (gebruik <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+
+#: widgets/flickr-widget.php:79
+msgid "Number of images to display"
+msgstr "Aantal te tonen afbeeldingen"
+
+#: widgets/recent-comments.php:7
+msgid "Recent Comments"
+msgstr "Recente reacties"
+
+#: widgets/flickr-widget.php:7
+msgid "Flickr Widget"
+msgstr "Flickr widget"
+
+#: widgets/flickr-widget.php:6
+msgid "Displays your latest Flickr photos."
+msgstr "Toont jouw laatste Flickr foto's."
+
+#: widgets/flickr-widget.php:67 widgets/recent-comments.php:109
+#: widgets/recent-posts.php:116
+msgid "Title"
+msgstr "Titel"
+
+#: single.php:80
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#: single.php:29 single.php:31
+msgid "Comments"
+msgstr "Reacties"
+
+#: single.php:24
+msgid "on"
+msgstr "op"
+
+#: single.php:24
+msgid "Posted"
+msgstr "Gepubliceerd"
+
+#: single.php:24
+msgid "by"
+msgstr "door"
+
+#: sidebar.php:27 widgets/recent-posts.php:7
+msgid "Recent Posts"
+msgstr "Meest recente berichten"
+
+#: page.php:57 single.php:134
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "We konden geen berichten vinden die overeen kwamen met uw zoekopdracht. Gelieve opnieuw te proberen."
+
+#: search.php:11 search.php:42
+msgid "Search results:"
+msgstr "Zoekresultaten:"
+
+#: search.php:55
+msgid "No results. Try again, would you kindly?"
+msgstr "Geen resultaten. Gelieve het opnieuw te proberen."
+
+#: searchform.php:2
+msgid "Search form"
+msgstr "Zoekformulier"
+
+#: functions.php:527
+msgid "Upload a logo to replace the default site title in the header."
+msgstr "Upload een logo om de titel in de header te vervangen."
+
+#: functions.php:553
+msgid "Accent Color"
+msgstr "Accentkleur"
+
+#: functions.php:517
+msgid "Options for Rowling"
+msgstr "Opties voor Rowling"
+
+#: functions.php:520
+msgid "Allows you to customize theme settings for Rowling."
+msgstr "Staat je toe om de thema-instellingen voor Rowling aan te passen."
+
+#: functions.php:525 functions.php:561
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:448
+msgid "Comment by post author"
+msgstr "Reactie door auteur"
+
+#: functions.php:476
+msgid "Awaiting moderation"
+msgstr "Wachtend op moderatie"
+
+#: functions.php:483
+msgid "Reply"
+msgstr "Beantwoorden"
+
+#: functions.php:432 functions.php:470 page.php:43 single.php:24
+msgid "Edit"
+msgstr "Bewerken"
+
+#: functions.php:432
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:95
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Widgets in deze zone zullen in de sidebar getoond worden."
+
+#: functions.php:133
+msgid "Read Next"
+msgstr "Lees het volgend bericht"
+
+#: functions.php:309
+msgid "Read More"
+msgstr "Meer lezen"
+
+#: functions.php:93
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:40
+msgid "Social Menu"
+msgstr "Sociaal menu"
+
+#: functions.php:39
+msgid "Secondary Menu"
+msgstr "Submenu"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: content-gallery.php:8 content.php:8
+msgid "Sticky post:"
+msgstr "Sticky bericht: "
+
+#: footer.php:5
+msgid "To the top"
+msgstr "Naar boven"
+
+#: comments.php:131
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:125
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:101
+msgid "Leave a Reply to"
+msgstr "Geef een reactie op"
+
+#: comments.php:119
+msgid "Name"
+msgstr "Naam"
+
+#: comments.php:98
+msgid "Leave a Reply"
+msgstr "Geef een reactie"
+
+#: comments.php:91
+msgid "Comments are Closed"
+msgstr "Reageren is niet mogelijk"
+
+#: comments.php:71 functions.php:294
+msgid "Next"
+msgstr "Volgende"
+
+#: comments.php:65 functions.php:249
+msgid "Previous"
+msgstr "Vorige"
+
+#: comments.php:47
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] "Pingback"
+msgstr[1] "Pingbacks"
+
+#: comments.php:24
+msgid "Add Comment"
+msgstr "Reactie toevoegen"
+
+#: comments.php:16 comments.php:111 single.php:30
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "Reactie"
+msgstr[1] "Reacties"
+
+#: archive.php:31 index.php:17 search.php:17
+msgid "Page"
+msgstr "Pagina"
+
+#: archive.php:23
+msgid "Archive"
+msgstr "Archief"
+
+#: archive.php:21
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: archive.php:18
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: archive.php:16
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: archive.php:14
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: 404.php:13
+msgid "These are Not the Results You're Looking For"
+msgstr "Dit zijn niet de resultaten die je zocht."
+
+#: 404.php:21
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. Either way, you're welcome to search for what you are looking for with the form below."
+msgstr "Het lijkt erop dat je een niet-bestaande pagina wenste te openen. Deze kan verwijderd zijn, verplaatst, of deze heeft zelfs nooit bestaan. Je kunt je zoektocht aanvatten met het zoekformulier onderaan."
+
+#: 404.php:23
+msgid "You can also return to the %s home page %s and continue your search from there."
+msgstr "Je kunt ook terug gaan naar de %s startpagina %s en je zoektocht daar verder zetten."
+
+#: archive.php:10
+msgid "Date: %s"
+msgstr "Datum: %s"
+
+#: archive.php:12
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr "Fout 404 "
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/rowling-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/rowling-wordpress-theme/"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"

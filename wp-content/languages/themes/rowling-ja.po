@@ -1,0 +1,291 @@
+# Translation of Themes - Rowling in Japanese
+# This file is distributed under the same license as the Themes - Rowling package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-19 23:13:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Rowling\n"
+
+#. Description of the plugin/theme
+msgid "Rowling is a clean, simple and elegant magazine theme for WordPress. It features a responsive design, great typography, two menu locations, social menu support, custom accent color support, custom logo support, gallery post format support, editor style support, a Flickr widget and recent posts and recent comments widgets with thumbnails. Included translations: Swedish/svenska."
+msgstr "Rowling はクリーン、シンプルでエレガントな WordPress のマガジンテーマです。レスポンシブデザイン、すばらしいタイポグラフィ、2つの位置のメニュー、SNS メニュー対応、アクセントカラーのカスタマイズ対応、カスタムロゴ対応、ギャラリー投稿フォーマット対応、エディタのスタイル対応、Flickr ウィジェット、サムネイル付きの最新の投稿と最新のコメントウィジェットの機能があります。スウェーデン語翻訳済み。"
+
+#. Theme Name of the plugin/theme
+msgid "Rowling"
+msgstr "Rowling"
+
+#: footer.php:11
+msgid "Theme by %s"
+msgstr "Theme by %s"
+
+#: widgets/recent-posts.php:121
+msgid "Number of posts to display"
+msgstr "表示する最新の投稿の数"
+
+#: widgets/recent-posts.php:6
+msgid "Displays recent blog entries."
+msgstr "最近のブログ投稿を表示します。"
+
+#: widgets/recent-comments.php:116 widgets/recent-posts.php:123
+msgid "Defaults to 5 if empty"
+msgstr "もし設定されていない場合のデフォルト値は5です"
+
+#: widgets/recent-comments.php:114
+msgid "Number of comments to display"
+msgstr "表示するコメント数"
+
+#: widgets/recent-comments.php:54
+msgid "posted"
+msgstr "投稿済"
+
+#: widgets/recent-comments.php:54
+msgid "Comment to"
+msgstr "コメント先:"
+
+#: widgets/recent-comments.php:6
+msgid "Displays recent comments with user avatars."
+msgstr "ユーザーアバターをつけて最近のコメントを表示します。"
+
+#: widgets/recent-comments.php:7
+msgid "Recent Comments"
+msgstr "最近のコメント"
+
+#: widgets/flickr-widget.php:79
+msgid "Number of images to display"
+msgstr "表示する画像数"
+
+#: widgets/flickr-widget.php:73
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr "Flickr ID (<a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>をお使いください)"
+
+#: widgets/flickr-widget.php:67 widgets/recent-comments.php:109
+#: widgets/recent-posts.php:116
+msgid "Title"
+msgstr "タイトル"
+
+#: widgets/flickr-widget.php:6
+msgid "Displays your latest Flickr photos."
+msgstr "最新の Flickr の写真を表示します。"
+
+#: widgets/flickr-widget.php:7
+msgid "Flickr Widget"
+msgstr "Flickr ウィジェット"
+
+#: single.php:80
+msgid "Pages:"
+msgstr "ページ:"
+
+#: single.php:29 single.php:31
+msgid "Comments"
+msgstr "コメント"
+
+#: single.php:24
+msgid "on"
+msgstr "on"
+
+#: single.php:24
+msgid "by"
+msgstr "by"
+
+#: single.php:24
+msgid "Posted"
+msgstr "Posted"
+
+#: sidebar.php:27 widgets/recent-posts.php:7
+msgid "Recent Posts"
+msgstr "最近の投稿"
+
+#: searchform.php:2
+msgid "Search form"
+msgstr "検索フォーム"
+
+#: search.php:55
+msgid "No results. Try again, would you kindly?"
+msgstr "検索結果が見つかりませんでした。もう一度やり直してください。"
+
+#: search.php:11 search.php:42
+msgid "Search results:"
+msgstr "検索結果:"
+
+#: page.php:57 single.php:134
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "クエリに一致する投稿はありませんでした。やり直してください。"
+
+#: functions.php:553
+msgid "Accent Color"
+msgstr "アクセント色"
+
+#: functions.php:527
+msgid "Upload a logo to replace the default site title in the header."
+msgstr "ヘッダーのデフォルトのサイトタイトルを置き換えるロゴをアップロードしてください。"
+
+#: functions.php:525 functions.php:561
+msgid "Logo"
+msgstr "ロゴ"
+
+#: functions.php:520
+msgid "Allows you to customize theme settings for Rowling."
+msgstr "Rowling のテーマ設定をカスタマイズできます。"
+
+#: functions.php:517
+msgid "Options for Rowling"
+msgstr "Rowling 設定"
+
+#: functions.php:483
+msgid "Reply"
+msgstr "返信"
+
+#: functions.php:476
+msgid "Awaiting moderation"
+msgstr "承認待ち"
+
+#: functions.php:448
+msgid "Comment by post author"
+msgstr "著者によるコメント"
+
+#: functions.php:432 functions.php:470 page.php:43 single.php:24
+msgid "Edit"
+msgstr "編集"
+
+#: functions.php:432
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: functions.php:309
+msgid "Read More"
+msgstr "続きを読む"
+
+#: functions.php:133
+msgid "Read Next"
+msgstr "次の記事"
+
+#: functions.php:95
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "このエリアのウィジェットはサイドバーに表示されます。"
+
+#: functions.php:93
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:40
+msgid "Social Menu"
+msgstr "ソーシャルメニュー"
+
+#: functions.php:39
+msgid "Secondary Menu"
+msgstr "第2メニュー"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:5
+msgid "To the top"
+msgstr "先頭へ"
+
+#: content-gallery.php:8 content.php:8
+msgid "Sticky post:"
+msgstr "先頭固定:"
+
+#: comments.php:131
+msgid "Website"
+msgstr "Web サイト"
+
+#: comments.php:125
+msgid "Email"
+msgstr "メール"
+
+#: comments.php:119
+msgid "Name"
+msgstr "名前"
+
+#: comments.php:101
+msgid "Leave a Reply to"
+msgstr "返信を残す"
+
+#: comments.php:98
+msgid "Leave a Reply"
+msgstr "コメントを残す"
+
+#: comments.php:91
+msgid "Comments are Closed"
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:71 functions.php:294
+msgid "Next"
+msgstr "次へ"
+
+#: comments.php:65 functions.php:249
+msgid "Previous"
+msgstr "前へ"
+
+#: comments.php:47
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] "ピンバック"
+
+#: comments.php:24
+msgid "Add Comment"
+msgstr "コメントする"
+
+#: comments.php:16 comments.php:111 single.php:30
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "コメント"
+
+#: archive.php:31 index.php:17 search.php:17
+msgid "Page"
+msgstr "ページ"
+
+#: archive.php:23
+msgid "Archive"
+msgstr "記録する"
+
+#: archive.php:21
+msgid "Author: %s"
+msgstr "作者別: %s"
+
+#: archive.php:18
+msgid "Tag: %s"
+msgstr "タグ: %s"
+
+#: archive.php:16
+msgid "Category: %s"
+msgstr "カテゴリー: %s"
+
+#: archive.php:14
+msgid "Year: %s"
+msgstr "年別: %s"
+
+#: archive.php:12
+msgid "Month: %s"
+msgstr "月別: %s"
+
+#: archive.php:10
+msgid "Date: %s"
+msgstr "日別: %s"
+
+#: 404.php:23
+msgid "You can also return to the %s home page %s and continue your search from there."
+msgstr "または%sホームページ%sに戻って検索を続けてください。"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr "404エラー"
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/rowling-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/rowling-wordpress-theme/"

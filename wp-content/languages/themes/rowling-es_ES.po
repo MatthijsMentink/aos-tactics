@@ -1,0 +1,301 @@
+# Translation of Themes - Rowling in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Rowling package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-12 12:40:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Rowling\n"
+
+#. Description of the plugin/theme
+msgid "Rowling is a clean, simple and elegant magazine theme for WordPress. It features a responsive design, great typography, two menu locations, social menu support, custom accent color support, custom logo support, gallery post format support, editor style support, a Flickr widget and recent posts and recent comments widgets with thumbnails. Included translations: Swedish/svenska."
+msgstr "Rowling es un tema de revista limpio, simple y elegante. Se caracteriza por un diseño responsivo, una gran tipografía, dos ubicaciones de menú, personalizaciones del menú social, los colores de acentuación, logo, formatos de la galería de las entradas, editor de estilos, un widget Flickr y widgets de entradasrecientes y comentarios recientes con imagen en miniatura. Traducciones incluidas: Swedish/svenska y Español"
+
+#. Theme Name of the plugin/theme
+msgid "Rowling"
+msgstr "Rowling"
+
+#: footer.php:11
+msgid "Theme by %s"
+msgstr "Tema creado por %s"
+
+#: widgets/recent-posts.php:121
+msgid "Number of posts to display"
+msgstr "Número de entradas que deseas mostrar"
+
+#: widgets/recent-posts.php:6
+msgid "Displays recent blog entries."
+msgstr "Muestra las entradas de blog recientes."
+
+#: widgets/recent-comments.php:116 widgets/recent-posts.php:123
+msgid "Defaults to 5 if empty"
+msgstr "Si está vacío, el valor por defecto es 5"
+
+#: widgets/recent-comments.php:114
+msgid "Number of comments to display"
+msgstr "Número de comentarios a mostrar"
+
+#: widgets/recent-comments.php:54
+msgid "posted"
+msgstr "Publicado"
+
+#: widgets/recent-comments.php:54
+msgid "Comment to"
+msgstr "Comentario a"
+
+#: widgets/recent-comments.php:6
+msgid "Displays recent comments with user avatars."
+msgstr "Muestra comentarios recientes con los avatares de los usuarios."
+
+#: widgets/recent-comments.php:7
+msgid "Recent Comments"
+msgstr "Comentarios recientes"
+
+#: widgets/flickr-widget.php:79
+msgid "Number of images to display"
+msgstr "Número de imágenes a mostrar"
+
+#: widgets/flickr-widget.php:73
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+
+#: widgets/flickr-widget.php:67 widgets/recent-comments.php:109
+#: widgets/recent-posts.php:116
+msgid "Title"
+msgstr "Título"
+
+#: widgets/flickr-widget.php:6
+msgid "Displays your latest Flickr photos."
+msgstr "Muestra tus últimas fotos en Flickr."
+
+#: widgets/flickr-widget.php:7
+msgid "Flickr Widget"
+msgstr "Widget de Flickr"
+
+#: single.php:80
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: single.php:29 single.php:31
+msgid "Comments"
+msgstr "Comentarios"
+
+#: single.php:24
+msgid "on"
+msgstr "en"
+
+#: single.php:24
+msgid "by"
+msgstr "por"
+
+#: single.php:24
+msgid "Posted"
+msgstr "Publicado"
+
+#: sidebar.php:27 widgets/recent-posts.php:7
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: searchform.php:2
+msgid "Search form"
+msgstr "Formulario de búsqueda"
+
+#: search.php:55
+msgid "No results. Try again, would you kindly?"
+msgstr "No hay resultados. Puedes intentarlo de nuevo."
+
+#: search.php:11 search.php:42
+msgid "Search results:"
+msgstr "Resultados de la búsqueda:"
+
+#: page.php:57 single.php:134
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "No hemos encontrado ninguna entrada relacionada con tu búsqueda. Por favor, inténtalo de nuevo."
+
+#: functions.php:553
+msgid "Accent Color"
+msgstr "Color de énfasis"
+
+#: functions.php:527
+msgid "Upload a logo to replace the default site title in the header."
+msgstr "Sube un logo para reemplazar el título por defecto en la cabecera."
+
+#: functions.php:525 functions.php:561
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:520
+msgid "Allows you to customize theme settings for Rowling."
+msgstr "Te permite personalizar los ajustes del tema para Rowling."
+
+#: functions.php:517
+msgid "Options for Rowling"
+msgstr "Opciones de Rowling"
+
+#: functions.php:483
+msgid "Reply"
+msgstr "Responder"
+
+#: functions.php:476
+msgid "Awaiting moderation"
+msgstr "Pendiente de moderación"
+
+#: functions.php:448
+msgid "Comment by post author"
+msgstr "Comentario del autor"
+
+#: functions.php:432 functions.php:470 page.php:43 single.php:24
+msgid "Edit"
+msgstr "Editar"
+
+#: functions.php:432
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: functions.php:309
+msgid "Read More"
+msgstr "Leer más"
+
+#: functions.php:133
+msgid "Read Next"
+msgstr "Siguiente"
+
+#: functions.php:95
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Los widgets en esta zona aparecerán en la barra lateral."
+
+#: functions.php:93
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:40
+msgid "Social Menu"
+msgstr "Menú Social"
+
+#: functions.php:39
+msgid "Secondary Menu"
+msgstr "Menú secundario"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: footer.php:5
+msgid "To the top"
+msgstr "A la parte superior"
+
+#: content-gallery.php:8 content.php:8
+msgid "Sticky post:"
+msgstr "Entrada permanente:"
+
+#: comments.php:131
+msgid "Website"
+msgstr "Web"
+
+#: comments.php:125
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: comments.php:119
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.php:101
+msgid "Leave a Reply to"
+msgstr "Responder a"
+
+#: comments.php:98
+msgid "Leave a Reply"
+msgstr "Deja un comentario"
+
+#: comments.php:91
+msgid "Comments are Closed"
+msgstr "No se admiten más comentarios"
+
+#: comments.php:71 functions.php:294
+msgid "Next"
+msgstr "Siguiente"
+
+#: comments.php:65 functions.php:249
+msgid "Previous"
+msgstr "Anterior"
+
+#: comments.php:47
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] "Pingback"
+msgstr[1] "Pingbacks"
+
+#: comments.php:24
+msgid "Add Comment"
+msgstr "Añadir comentario"
+
+#: comments.php:16 comments.php:111 single.php:30
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "Comentario"
+msgstr[1] "Comentarios"
+
+#: archive.php:31 index.php:17 search.php:17
+msgid "Page"
+msgstr "Página"
+
+#: archive.php:23
+msgid "Archive"
+msgstr "Archivo"
+
+#: archive.php:21
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: archive.php:18
+msgid "Tag: %s"
+msgstr "Etiqueta: %s"
+
+#: archive.php:16
+msgid "Category: %s"
+msgstr "Categoría: %s"
+
+#: archive.php:14
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: archive.php:12
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: archive.php:10
+msgid "Date: %s"
+msgstr "Fecha: %s"
+
+#: 404.php:23
+msgid "You can also return to the %s home page %s and continue your search from there."
+msgstr "También puedes volver a la %s página de inicio %s y continuar la búsqueda desde ahí."
+
+#: 404.php:21
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. Either way, you're welcome to search for what you are looking for with the form below."
+msgstr "Parece que has intentado abrir una página que no existe. Ha podido ser eliminada, movida o que jamás haya existido. En cualquier caso, te invitamos a buscar lo que necesitas a través del siguiente formulario."
+
+#: 404.php:13
+msgid "These are Not the Results You're Looking For"
+msgstr "Esto NO son los resultados que estabas buscando"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr "Error 404 "
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/rowling-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/rowling-wordpress-theme/"
